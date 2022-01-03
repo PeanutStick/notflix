@@ -16,8 +16,8 @@ For scraping, the script uses simple gnu utils like sed, awk, paste, cut.
 
 ## Requirements
 
-* [webtorrent](https://webtorrent.io/) - A tool to stream torrent. `npm install webtorrent-cli -g`
-* [vlc](https://www.videolan.org/vlc/index.fr.html) - VLC is a free and open source cross-platform multimedia player 
+* [webtorrent](https://webtorrent.io/) - A tool to stream torrent. `yay -S webtorrent-cli`
+* [vlc](https://www.videolan.org/vlc/index.fr.html) - VLC is a free and open source cross-platform multimedia player `sudo pacman -S vlc`
 
 ## Installation
 
